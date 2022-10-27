@@ -1,0 +1,36 @@
+@media screen and (min-width: 400px) {
+    .logo {
+        width: 70px;
+    }
+
+    #main-head {
+        padding: 50px;
+    }
+
+    .row {
+        padding: 0;
+    }
+
+    .col-sm {
+        text-align: center;
+    }
+    
+    .p-para {
+        font-size: 16px;
+    }
+
+    .s-para {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+
+    .main-head-img {
+        width: 20rem;
+    }
+
+    .col-2 {
+        min-width: fit-content;
+    }
+}
